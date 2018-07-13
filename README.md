@@ -6,3 +6,4 @@ Features :
  * Teachers can evaluate students and add exam quesions.
  * Students can check their semester scores, participate in exams and learn their final score right away.
  * All users can change their password. 
+ Sample staff username : admin / password : admin123 
